@@ -1,0 +1,52 @@
+[2018-08-08 13:35:32.380] [sharedprocess] [info] main {"machineId":"7c355ffbcad951ce51cdc715aad0b9ae2ce63297b16755eb91167796cfbf2a5c"}
+[2018-08-08 13:35:32.413] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:35:32.428] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:35:32.431] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:35:32.435] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:35:32.494] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:35:32.496] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:35:32.498] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:35:33.204] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:36:12.385] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-08-08 13:40:33.223] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:13.876] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:13.878] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:13.878] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:13.935] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:14.042] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:14.044] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:14.097] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:16.552] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:16.554] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:16.556] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:16.613] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:16.614] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:16.616] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:17.844] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:17.849] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:17.850] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:18.029] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:18.031] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:18.034] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:25.194] [sharedprocess] [info] Installing extension: vim
+[2018-08-08 13:41:25.198] [sharedprocess] [info] Scanned user extensions: 0
+[2018-08-08 13:41:26.036] [sharedprocess] [info] Downloaded extension: vim
+[2018-08-08 13:41:28.174] [sharedprocess] [info] Extracted extension to /home/doomtickle/.vscode/extensions/.vscodevim.vim-0.15.7: vscodevim.vim-0.15.7
+[2018-08-08 13:41:28.174] [sharedprocess] [info] Renamed to /home/doomtickle/.vscode/extensions/vscodevim.vim-0.15.7
+[2018-08-08 13:41:28.174] [sharedprocess] [info] Installation completed. vscodevim.vim-0.15.7
+[2018-08-08 13:41:28.191] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2018-08-08 13:41:28.362] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:28.363] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:28.410] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:28.411] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:32.580] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.581] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.593] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.596] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.601] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.610] [sharedprocess] [info] Scanned user extensions: 1
+[2018-08-08 13:41:32.747] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:32.756] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:32.762] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:32.769] [sharedprocess] [info] Scanned system extensions: 70
+[2018-08-08 13:41:35.845] [sharedprocess] [info] Scanned user extensions: 1

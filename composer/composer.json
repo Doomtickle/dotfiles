@@ -1,0 +1,7 @@
+{
+    "require": {
+        "cpriego/valet-linux": "^2.0",
+        "laravel/installer": "^2.0",
+        "friendsofphp/php-cs-fixer": "^2.12"
+    }
+}

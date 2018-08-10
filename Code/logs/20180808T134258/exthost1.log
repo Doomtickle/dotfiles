@@ -1,0 +1,16 @@
+[2018-08-08 13:43:00.910] [exthost1] [info] extension host started
+[2018-08-08 13:43:00.937] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-08 13:43:00.937] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/out/extension
+[2018-08-08 13:43:01.037] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-08 13:43:01.037] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/out/main
+[2018-08-08 13:43:01.205] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-08 13:43:01.205] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/out/extension
+[2018-08-08 13:43:01.216] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-08 13:43:01.216] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/search-rg/out/extension
+[2018-08-08 13:43:01.222] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-08-08 13:43:01.222] [exthost1] [info] ExtensionService#loadCommonJSModule /home/doomtickle/.vscode/extensions/vscodevim.vim-0.15.7/out/extension
+[2018-08-08 13:43:01.683] [exthost1] [info] eager extensions activated
+[2018-08-08 13:43:01.687] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-08 13:43:01.687] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/out/extension
+[2018-08-08 13:43:01.696] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-08 13:43:01.696] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json-language-features/client/out/jsonMain

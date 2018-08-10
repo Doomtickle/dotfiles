@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.sparkchess.com/chrome.html"
+      },
+      "urls": [ "http://www.sparkchess.com/chrome.html" ]
+   },
+   "description": "The only chess game that puts fun first. Play against the computer or challenge your friends online!",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "24": "icon-24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDspgPraIhLkyL02GXahk7Nd4BiDsJclj1tjq05+1BLbShBHY0imxlNcivuM7o62Gqi4PgOqCgQFWLSPC8ziESK+xS1yeCj7qez1NsZj7t6E07byu8cZMTb3Yc8vQlPpHoDpcvx+PKU+3WCa2mXjAgQDL3jzJCBqYP5XuKKAjgdSQIDAQAB",
+   "manifest_version": 2,
+   "name": "SparkChess",
+   "short_name": "SparkChess",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "10.0.0"
+}

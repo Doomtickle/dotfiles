@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "editor.cursorBlinking": "phase",
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+}
+  

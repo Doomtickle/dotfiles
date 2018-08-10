@@ -1,0 +1,20 @@
+2018/08/10-10:31:29.508 839 Reusing MANIFEST /home/doomtickle/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/08/10-10:31:29.508 839 Recovering log #319
+2018/08/10-10:31:29.508 839 Reusing old log /home/doomtickle/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000319.log 
+2018/08/10-10:32:30.491 1326 Level-0 table #323: started
+2018/08/10-10:32:30.609 1326 Level-0 table #323: 3465525 bytes OK
+2018/08/10-10:32:30.612 1326 Delete type=0 #319
+2018/08/10-10:33:49.170 1326 Level-0 table #325: started
+2018/08/10-10:33:49.271 1326 Level-0 table #325: 3465679 bytes OK
+2018/08/10-10:33:49.275 1326 Delete type=0 #322
+2018/08/10-10:33:49.280 1326 Compacting 4@0 + 2@1 files
+2018/08/10-10:33:49.362 1326 Generated table #326@0: 1 keys, 3465438 bytes
+2018/08/10-10:33:49.366 1326 Generated table #327@0: 4 keys, 396 bytes
+2018/08/10-10:33:49.366 1326 Compacted 4@0 + 2@1 files => 3465834 bytes
+2018/08/10-10:33:49.368 1326 compacted to: files[ 0 2 1 0 0 0 0 ]
+2018/08/10-10:33:49.368 1326 Delete type=2 #325
+2018/08/10-10:33:49.369 1326 Delete type=2 #314
+2018/08/10-10:33:49.370 1326 Delete type=2 #318
+2018/08/10-10:33:49.370 1326 Delete type=2 #315
+2018/08/10-10:33:49.370 1326 Delete type=2 #320
+2018/08/10-10:33:49.370 1326 Delete type=2 #323

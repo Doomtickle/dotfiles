@@ -1,0 +1,34 @@
+(new RNS())->rebuild();
+(new RNS())->rebuild();
+(new RNS())->rebuild();
+(new RNS())->rebuild();
+(new RNS())->rebuild();
+(new RNS())->rebuild();
+Image::changes();
+(new RNS)->getAccessToken();
+Rate::forAllUnits();
+Rate::forAllUnits();
+(new RNS)->rebuild();
+Rate::forAllUnits();
+clear
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+c
+clear
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+clear
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Rate::forAllUnits();
+Unit::with('rates')->first();
+Detail::forAllUnits();
