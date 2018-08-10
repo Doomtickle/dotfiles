@@ -1,0 +1,39 @@
+# Composer
+alias dal="composer dump autoload"
+alias require="composer require"
+
+# Git
+alias gaa="git add ."
+alias gs="git status"
+alias gc="git commit -a -m"
+alias gp="git push -u origin master"
+alias pull="git pull"
+alias wip="git add . && git commit -am 'wip' && git push"
+
+# Laravel
+alias pa="php artisan"
+alias model="pa make:model"
+alias controller="pa make:controller"
+alias migration="pa make:migration"
+alias test="pa make:test"
+alias tinker="pa tinker"
+
+
+# System
+alias sytemctl="sudo systemctl"
+alias pacman="sudo pacman"
+alias wifi-menu="sudo wifi-menu"
+
+# Navigation
+alias sites="cd ~/code/sites"
+
+# Database
+alias database="mysql -uroot -p"
+
+# NPM
+alias nrd="npm run dev"
+alias nrp="npm run prod"
+alias nrw="npm run watch"
+
+# SSH
+alias sshparker="ssh forge@172.104.11.185"
